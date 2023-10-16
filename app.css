@@ -1,0 +1,7 @@
+* {
+  margin: 0; /*it clears the distance between the heading and the images of movies*/
+}
+
+.app {
+  background-color: #111; /*this provides complete black background to the app*/
+}
